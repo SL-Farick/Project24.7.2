@@ -1,0 +1,5 @@
+valid_email = "fapuk573@mail.ru"
+valid_password = "h2fix6ks12"
+unvalid_email = "gre@vader.com"
+unvalid_password = "234125fsdf"
+unvalid_auth_key = "asdnjfhlsdfaufhfuiahffhsahfoasdfioaf131413141124828932"
